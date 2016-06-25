@@ -2,7 +2,7 @@
 
 > Clean Atom is a Dark Syntax Theme for the Atom Text Editor
 
-![](screenshot.png)
+![](https://raw.githubusercontent.com/mohnish/clean-atom/master/screenshot.png)
 
 ## Installation
 
