@@ -1,0 +1,16 @@
+{
+  "name": "clean-dark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Clean Atom is a Dark Syntax Theme for the Atom Text Editor",
+  "keywords": [
+    "syntax",
+    "theme",
+    "clean"
+  ],
+  "repository": "https://github.com/mohnish/clean-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
