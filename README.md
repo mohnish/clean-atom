@@ -8,6 +8,10 @@
 
 `apm install clean-dark-syntax`
 
+## Extra
+
+If you like *Clean*, then checkout the Terminal.app edition here https://github.com/mohnish/clean-terminal
+
 ## License
 
 (The MIT License)
