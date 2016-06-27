@@ -8,7 +8,8 @@ It's available at https://atom.io/themes/clean-dark-syntax
 
 ## Installation
 
-`apm install clean-dark-syntax`
+- via APM `apm install clean-dark-syntax`
+- via editor `Settings > Install > Themes`
 
 ## Extra
 

@@ -1,7 +1,7 @@
 {
   "name": "clean-dark-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clean Atom is a Dark Syntax Theme for the Atom Text Editor",
   "keywords": [
     "syntax",
